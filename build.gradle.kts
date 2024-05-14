@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.outfit7"
-version = "1.8.17-SNAPSHOT"
+version = "1.8.17-R0.1-SNAPSHOT"
 
 repositories {
     mavenCentral()
