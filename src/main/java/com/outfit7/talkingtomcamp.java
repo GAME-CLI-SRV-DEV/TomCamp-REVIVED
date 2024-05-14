@@ -49,6 +49,11 @@ public class talkingtomcamp {
             rubbersquad = new ImageIcon("src\\main\\resources\\images\\troops\\Rubbersquad.png").getImage();
             ninja = new ImageIcon("src\\main\\resources\\images\\troops\\Ninja.png").getImage();
             slinger = new ImageIcon("src\\main\\resources\\images\\troops\\Slinger.png").getImage();
+            JetPack = new ImageIcon("src\\main\\resources\\images\\troops\\Balloon.png").getImage();
+            Wingsuit = new ImageIcon("src\\main\\resources\\images\\troops\\Blaster.png").getImage();
+            Dryer = new ImageIcon("src\\main\\resources\\images\\troops\\Rubbersquad.png").getImage();
+            AirShip = new ImageIcon("src\\main\\resources\\images\\troops\\Airship.png").getImage();
+            Mecha = new ImageIcon("src\\main\\resources\\images\\troops\\Mecha.png").getImage();
         }
 
     }
